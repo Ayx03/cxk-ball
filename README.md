@@ -1,10 +1,12 @@
-<img src="https://i.imgur.com/aoB8Er1.png" align=right />
+<img src="https://user-images.githubusercontent.com/75155322/185654470-6b0f74f6-b1bb-47c8-8335-fd5d88e0f175.png" align=right />
 
 # 🏀 CXK 打篮球
 
 本项目是 CXK 打篮球的游戏，原项目：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
 
-**ReadMe:** [English Version](README_EN.md) | **Demo**：[cxk.ssrr.one](https://cxk.ssrr.one/)
+**ReadMe:** [English Version](README_EN.md) | **Demo**：<https://cxk.imayx.top/>
+
+如果 Vercel 在您所在的地区可用性不佳，试试 GitHub Pages: <http://g.imayx.top/cxk-ball/>
 
 > 本游戏有一定难度，请 ikun 们不要轻易尝试
 
@@ -12,22 +14,22 @@
 
 ## 游戏截图
 
-![](https://i.imgur.com/gVfLn4a.png)
+![image](https://user-images.githubusercontent.com/75155322/185654158-9ae8754d-43b1-4046-bab6-d59d52dd7e0a.png)
 
 游戏有多种难度可选择（简单、普通、困难、极限以及非人类）
 
 非人类模式请勿轻易尝试，否则可能会疯掉（雾
 
-![](https://upload-images.jianshu.io/upload_images/3203841-f8468944b6321119.gif?imageMogr2/auto-orient/strip)
+![image](https://user-images.githubusercontent.com/75155322/185654259-3d8dfa8c-efcd-4082-a916-4221cf0525a0.png)
 
 祝您游戏愉快
 
 ## 如何体验
 
-你可以直接玩 demo 或者自行 clone 到本地
+你可以直接玩 [Demo](https://cxk.imayx.top/) 或者自行 clone 到本地
 
 ```bash
-git clone https://github.com/kasuganosoras/cxk-ball
+git clone https://github.com/Ayx03/cxk-ball
 ```
 
 访问你的站点或者直接浏览器打开 `index.html` 开始玩
